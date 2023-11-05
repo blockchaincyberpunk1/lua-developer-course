@@ -1,0 +1,14 @@
+ Lua Language Updates and Documentation
+
+Instructions:
+In this assignment, you will stay informed about Lua language updates and contribute to Lua's documentation.
+
+Monitor Lua's official website or repository for any recent language updates, announcements, or releases.
+
+Explore Lua's official documentation and identify an area where you can improve or enhance the documentation. It could be adding an example, clarifying a concept, or fixing a typo.
+
+Make the necessary improvements to the Lua documentation. If possible, follow the Lua community's contribution guidelines.
+
+Document your experience of monitoring language updates and contributing to the documentation, including details of the improvement you made.
+
+Submit your documentation of staying informed about Lua language updates and evidence of your documentation contribution.

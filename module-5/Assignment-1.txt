@@ -1,0 +1,16 @@
+Command-Line Application Development
+
+Instructions:
+For this assignment, you will create a command-line application using Lua to practice basic application development.
+
+Choose a simple task or utility that can be performed via a command-line interface. For example, you can create a task manager, a calculator, or a file manipulation tool.
+
+Develop a Lua program that accepts command-line arguments or user input to perform the chosen task.
+
+Implement error handling and provide clear usage instructions when incorrect input is provided.
+
+Test your command-line application with various inputs to ensure it functions correctly.
+
+Create a brief user guide or README file that explains how to use your command-line application.
+
+Submit your Lua code along with the user guide or README file.

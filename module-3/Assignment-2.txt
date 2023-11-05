@@ -1,0 +1,12 @@
+Object-Oriented Lua
+
+Instructions:
+In this assignment, you will practice implementing object-oriented programming (OOP) principles in Lua using metatables.
+
+Write Lua code that defines a simple class using metatables, with attributes and methods. For example, create a class representing a "Person" with attributes like name and age, and methods for setting and getting these attributes.
+
+Implement an inheritance scenario in Lua using metatables, where one class inherits from another. For example, create a "Student" class that inherits from the "Person" class and adds additional attributes and methods.
+
+Create an instance of your class, demonstrate the usage of its methods, and access its attributes.
+
+Submit your Lua code along with explanations or comments for each task.

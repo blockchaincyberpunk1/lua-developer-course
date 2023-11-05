@@ -1,0 +1,43 @@
+Calculator App: Create a console-based calculator application that can perform basic arithmetic operations (addition, subtraction, multiplication, division).
+
+To-Do List Manager: Build a console-based to-do list manager that allows users to add, remove, and list tasks. Store tasks in a Lua table.
+
+Number Guessing Game: Develop a number guessing game where the computer generates a random number, and the user has to guess it. Provide hints like "too high" or "too low."
+
+Simple Text Editor: Create a console-based text editor that enables users to open, edit, and save text files. Implement basic text editing features.
+
+Currency Converter: Build a currency converter application that converts between different currencies. Retrieve exchange rates from an API or use predefined rates.
+
+Quiz Game: Design a quiz game where users can answer multiple-choice questions. Keep track of their scores and display the results at the end.
+
+File Backup Utility: Develop a command-line tool that allows users to back up specific files or directories to a designated backup folder. Implement error handling.
+
+Contact Book: Create a simple contact book application that lets users add, search, and delete contacts. Store contact information in a Lua table.
+
+Basic Drawing Program: Build a console-based drawing program where users can draw shapes (lines, rectangles, circles) using ASCII characters.
+
+Temperature Converter: Implement a temperature converter that converts between Celsius and Fahrenheit. Provide a menu for users to choose the conversion type.
+
+Pong Game: Create a classic Pong game where two players control paddles to bounce a ball back and forth. Use Love2D's graphics and collision detection features.
+
+Platformer Game: Develop a 2D platformer game where the player controls a character that can jump and move through levels filled with obstacles and enemies.
+
+Space Shooter: Build a top-down space shooter game where the player's spaceship can shoot enemies and dodge obstacles. Implement score tracking and power-ups.
+
+Endless Runner: Create an endless runner game where the player controls a character that runs continuously and must jump or slide to avoid obstacles.
+
+Tile-Based Puzzle Game: Design a tile-based puzzle game where the player must arrange tiles to form a complete image. Use Love2D's sprite handling for puzzle pieces.
+
+Maze Generator: Develop a game that generates random mazes and allows the player to navigate through them. Include features like wall collisions and pathfinding.
+
+Memory Matching Game: Create a memory matching game where players must find pairs of matching cards by flipping them over.
+
+Racing Game: Build a simple 2D racing game where the player races against computer-controlled opponents. Implement a lap system and track obstacles.
+
+Breakout Clone: Develop a Breakout-style game where the player controls a paddle to bounce a ball and break bricks. Include power-ups and different levels.
+
+Tetris Game: Create a classic Tetris game where players must rotate and arrange falling blocks to complete lines and clear the screen.
+
+Text-Based RPG: Develop a text-based role-playing game (RPG) where players make choices to progress through a story, battle enemies, and level up.
+
+Flappy Bird Clone: Create a Flappy Bird-inspired game where the player controls a bird that must navigate through a series of pipes by tapping to flap.

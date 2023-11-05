@@ -1,0 +1,14 @@
+Lua Table Manipulation
+
+Instructions:
+In this assignment, you will practice creating, modifying, and manipulating tables in Lua.
+
+Create a Lua program that defines an empty table and adds at least five key-value pairs to it, representing various data types.
+
+Write Lua code to iterate through the table and print all its key-value pairs.
+
+Implement a Lua function that checks if a specific key exists in the table and prints a message accordingly.
+
+Develop a Lua script that demonstrates how to merge two tables into a single table.
+
+Submit your Lua code along with explanations or comments for each task.

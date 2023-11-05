@@ -1,0 +1,17 @@
+Lua Community Project Exploration
+
+Instructions:
+For this assignment, you will explore and evaluate open-source Lua projects within the Lua community.
+
+Research and identify three open-source Lua projects that align with your interests or career goals. These projects can be related to game development, web development, scientific computing, or any other field.
+
+Examine the project repositories, README files, and documentation to understand the project's purpose, scope, and contributors.
+
+Select one of the identified projects and perform one or more of the following tasks:
+
+Clone the project repository and build it on your local machine.
+Explore the codebase to understand its structure and components.
+Submit a documentation improvement or a code comment enhancement to the project.
+Document your findings, including project descriptions, your chosen project's details, and the contribution you made or attempted.
+
+Submit your documentation of the projects you explored, including project descriptions and evidence of your contribution or exploration.

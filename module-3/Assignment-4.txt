@@ -1,0 +1,12 @@
+Optional Multi-threading with Lua Lanes
+
+Instructions:
+In this optional assignment, you will explore Lua Lanes for multi-threading in Lua applications.
+
+Write a Lua program that demonstrates the use of Lua Lanes to create and manage multiple threads that perform parallel computations. Each thread should have a specific task, and the main program should coordinate their execution.
+
+Implement synchronization mechanisms using Lua Lanes to ensure that the threads can safely communicate and share data when necessary.
+
+Extend your program to measure and compare the execution time of multi-threaded code versus single-threaded code for a computationally intensive task.
+
+Submit your Lua code along with explanations or comments for each task.

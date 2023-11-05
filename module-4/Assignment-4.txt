@@ -1,0 +1,14 @@
+Advanced Lua Game Scripting (Optional)
+
+Instructions:
+In this optional assignment, you will delve deeper into Lua game scripting and explore more advanced concepts in your chosen game engine (Unity or Unreal Engine).
+
+Extend your previous Lua script or create a new one that involves more complex game functionality, such as character interactions, AI behaviors, or level design.
+
+Implement Lua functions that respond to specific game events or triggers, enhancing the interactivity of your game.
+
+Utilize Lua's object-oriented capabilities, if available, to organize and manage game objects and behaviors more efficiently.
+
+Document your scripting work, explaining how Lua is integrated into your chosen game engine and how it enhances your game's functionality.
+
+Submit your advanced Lua script and a detailed report on your Lua scripting experience, including any insights or lessons learned during the process.

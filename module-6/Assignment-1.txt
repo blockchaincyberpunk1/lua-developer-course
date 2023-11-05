@@ -1,0 +1,16 @@
+Git Version Control Basics
+
+Instructions:
+For this assignment, you will learn how to use Git for version control, collaboration, and tracking changes in your Lua projects.
+
+Set up a Git repository for a new or existing Lua project. Initialize the repository and add some sample Lua files to it.
+
+Create at least three commits with meaningful commit messages that demonstrate the process of making changes to your Lua code.
+
+Use Git's branching and merging capabilities to create a new branch, make changes in the branch, and then merge those changes back into the main branch (usually called "master" or "main").
+
+Create a remote Git repository on a platform like GitHub, GitLab, or Bitbucket. Push your local Git repository to the remote repository.
+
+Document the steps you followed, including commands used, in a README file in your repository.
+
+Submit the link to your remote Git repository and the README file.

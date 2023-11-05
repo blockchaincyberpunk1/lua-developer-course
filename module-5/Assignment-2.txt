@@ -1,0 +1,16 @@
+Command-Line Application Enhancement
+
+Instructions:
+In this assignment, you will build upon your previously developed command-line application to enhance its functionality and user experience.
+
+Select your previously created command-line application and identify areas where it can be improved or expanded.
+
+Implement new features or enhancements to make the application more versatile or user-friendly.
+
+Refactor and optimize your Lua code for improved performance and readability.
+
+Update the user guide or README file to reflect the changes and new features.
+
+Test the enhanced command-line application thoroughly to ensure it functions as expected.
+
+Submit your improved Lua code along with the updated user guide or README file, highlighting the changes and enhancements.

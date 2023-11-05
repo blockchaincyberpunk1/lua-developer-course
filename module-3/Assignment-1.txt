@@ -1,0 +1,12 @@
+Metatables and Metamethods
+
+Instructions:
+For this assignment, you will explore metatables and metamethods in Lua.
+
+Write a Lua program that uses metatables to define a custom behavior for the addition (+) operator between two tables. When two tables are added, their values should be concatenated into a new table.
+
+Implement a Lua script that demonstrates the use of metamethods, specifically the __index metamethod, to create a custom indexing behavior for a table.
+
+Create a Lua program that uses metatables to restrict the modification of a specific table by preventing any changes to its values.
+
+Submit your Lua code along with comments explaining the purpose and functionality of each part.

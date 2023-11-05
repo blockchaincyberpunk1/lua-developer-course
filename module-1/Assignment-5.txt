@@ -1,0 +1,12 @@
+Lua Functions and Scope
+
+Instructions:
+For this assignment, you will explore functions and variable scope in Lua.
+
+Write a Lua function that calculates the factorial of a given positive integer using recursion.
+
+Create a Lua program that demonstrates the concept of local and global scope variables. Declare local and global variables within the program, and explain their scope.
+
+Implement a Lua function that takes two numbers as input and returns their sum and product as separate values.
+
+Submit your Lua code along with explanations and comments for each task.

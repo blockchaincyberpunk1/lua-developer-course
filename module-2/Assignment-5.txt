@@ -1,0 +1,10 @@
+Lua File Manipulation Challenge
+
+Instructions:
+For this assignment, you will work with Lua's file I/O capabilities to manipulate data in text files.
+
+Write a Lua program that reads the content of an existing text file, manipulates the data (e.g., performs string replacements or modifications), and saves the modified content back to the same file.
+
+Create a Lua script that reads a CSV (Comma-Separated Values) file and processes its data to calculate statistics (e.g., average, maximum, minimum) for a specific column.
+
+Submit your Lua code for both tasks along with explanations or comments describing the steps and logic you used to achieve the desired outcomes.

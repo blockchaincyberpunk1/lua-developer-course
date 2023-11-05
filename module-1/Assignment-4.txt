@@ -1,0 +1,12 @@
+Lua Control Structures Exercise
+
+Instructions:
+In this assignment, you will practice working with control structures in Lua.
+
+Implement a Lua program that uses conditional statements (if, else if, else) to determine whether a number is even or odd.
+
+Write a Lua script that uses loops (for or while) to print the first 10 Fibonacci numbers.
+
+Create a Lua program that asks the user to input a number and then prints a countdown from that number to 1 using a loop.
+
+Submit your Lua code along with comments explaining the logic and purpose of each part.

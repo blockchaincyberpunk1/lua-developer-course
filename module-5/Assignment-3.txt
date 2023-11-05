@@ -1,0 +1,17 @@
+Optional Desktop Application Prototype
+
+Instructions:
+For this optional assignment, you will extend your skills by developing a graphical desktop application using Lua and libraries like GTK or wxLua.
+
+Choose a simple desktop application idea, such as a text editor, a note-taking app, or a calculator.
+
+Create a prototype or minimal version of your desktop application using Lua and the chosen graphical library (e.g., GTK or wxLua).
+
+Implement essential features, such as creating, saving, and editing content in the application.
+
+Ensure a user-friendly graphical interface with appropriate widgets and controls.
+
+Test the desktop application prototype to verify its functionality.
+
+Submit your Lua code for the desktop application prototype along with a brief description of the application's purpose and features.
+

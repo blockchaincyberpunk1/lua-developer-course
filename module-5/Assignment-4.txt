@@ -1,0 +1,16 @@
+Homework Assignment 4: Desktop Application Enhancement (Optional)
+
+Instructions:
+In this optional assignment, you will build upon your desktop application prototype to enhance its functionality and user interface.
+
+Select your previously created desktop application prototype and identify areas where it can be improved or extended.
+
+Implement additional features or improvements to make the application more robust and user-friendly.
+
+Refine the graphical user interface (GUI) by adding more widgets, improving layouts, and enhancing the overall design.
+
+Update any documentation or user guides to reflect the changes and new features.
+
+Test the enhanced desktop application prototype to ensure it functions smoothly.
+
+Submit your improved Lua code for the desktop application prototype along with updated documentation or user guides highlighting the changes and enhancements.

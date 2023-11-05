@@ -1,0 +1,64 @@
+# Compiled Lua files
+*.luac
+
+# LuaRocks package management
+luarocks-admin/
+luarocks/
+
+# Dependencies installed by LuaRocks
+lua_modules/
+
+# Object files
+*.o
+
+# Libraries
+*.a
+*.dll
+*.so
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Operating System generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# User-specific files
+*.user
+*.userprefs
+*.sublime-project
+*.sublime-workspace
+*.idea/
+.vscode/
+*.tmproj
+*.tmproject
+*.esproj
+*.LSOverride
+
+# Other files to ignore
+*.pid
+*.pid.lock
+*.seed
+*.pidb
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+*.sln.docstates
+
+
+
+/articles
+/guides
+/infographics
+/presentations

@@ -1,0 +1,13 @@
+Lua Standard Libraries Introduction
+
+Instructions:
+For this assignment, you will get familiar with Lua's standard libraries, including string manipulation, file I/O, and mathematical functions.
+
+Write a Lua program that uses string manipulation functions to:
+
+Convert a given string to uppercase.
+Concatenate two strings.
+Count the number of characters in a string.
+Create a Lua script that performs basic mathematical operations, such as addition, subtraction, multiplication, and division, using Lua's built-in mathematical functions.
+
+Submit your Lua code for both tasks along with comments explaining the purpose and functionality of each part.

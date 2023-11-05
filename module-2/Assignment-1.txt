@@ -1,0 +1,14 @@
+Lua Tables Exploration
+
+Instructions:
+For this assignment, you will explore Lua's versatile data structure, tables, and their various applications.
+
+Create a Lua program that defines a table containing information about a fictional list of books. Include book titles, authors, and publication years.
+
+Implement Lua code to access and print specific elements of the table, such as the title of the first book or the author of the third book.
+
+Write a Lua function that adds a new book entry to the table, allowing the user to input the book's details.
+
+Modify the table to remove an entry (e.g., a book) based on user input.
+
+Submit your Lua code along with comments explaining the purpose and functionality of each part.

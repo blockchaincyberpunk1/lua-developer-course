@@ -1,0 +1,12 @@
+Lua File I/O Practice
+
+Instructions:
+In this assignment, you will learn how to read from and write to files in Lua using the I/O library.
+
+Create a Lua program that reads the contents of a text file named "input.txt" and prints its content to the console.
+
+Implement a Lua script that prompts the user to enter text and saves it to a new text file named "output.txt."
+
+Extend the previous program to append additional text entered by the user to the "output.txt" file.
+
+Submit your Lua code along with explanations or comments for each task.

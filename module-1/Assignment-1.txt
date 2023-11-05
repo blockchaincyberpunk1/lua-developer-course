@@ -1,0 +1,18 @@
+Programming Concepts Exploration
+
+Instructions:
+For this assignment, you are tasked with researching and writing a brief report on the foundational programming concepts covered in Module 1.
+
+Define and explain the following concepts:
+
+Variables
+Data types
+Control structures
+Functions
+Provide a real-world example for each concept to illustrate its practical application.
+
+Discuss the importance of understanding these concepts in programming and software development.
+
+Write a short code snippet in Lua that demonstrates the use of at least one of these concepts.
+
+Submit your report along with the code snippet.

@@ -1,0 +1,17 @@
+Love2D Game Development Challenge
+
+Instructions:
+In this assignment, you will continue working with Love2D and build a more complex game.
+
+Create a Love2D game project of your choice, such as a platformer, space shooter, or puzzle game.
+
+Implement advanced game logic, including character movement, enemy behavior, and game mechanics specific to your chosen game genre.
+
+Enhance the graphics by using textures and sprites for game objects.
+
+Implement a game over condition and display a game over screen with a final score.
+
+Add sound effects or background music to your game using Love2D's audio capabilities.
+
+Submit your Love2D game project along with a brief description of the game, its rules, and any additional features you implemented.
+

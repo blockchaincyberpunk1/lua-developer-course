@@ -1,0 +1,12 @@
+Lua Coroutines Exploration
+
+Instructions:
+For this assignment, you will learn about Lua's coroutine feature and practice using it for asynchronous and concurrent programming.
+
+Write a Lua program that demonstrates the creation of coroutines and how they can be used to execute multiple tasks concurrently. Create two coroutines that perform different computations and run them concurrently.
+
+Extend the previous program to show how coroutines can be used for asynchronous programming. Implement a coroutine that simulates an asynchronous task (e.g., a timer) and yields control back to the main program while waiting.
+
+Create a Lua script that uses coroutines to implement a cooperative multitasking scenario, where multiple coroutines take turns executing tasks.
+
+Submit your Lua code along with comments explaining the purpose and functionality of each part.

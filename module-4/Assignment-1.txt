@@ -1,0 +1,16 @@
+Love2D Game Framework Basics
+
+Instructions:
+In this assignment, you will explore Love2D, a popular game framework for Lua, and practice the fundamentals of game development using Love2D.
+
+Create a Love2D project that displays a simple game window with a background color.
+
+Implement game logic to move a character (e.g., a square or a circle) using keyboard input (arrow keys or WASD).
+
+Add graphics to your game by drawing shapes (e.g., rectangles, circles) and applying colors.
+
+Implement basic collision detection between objects in your game.
+
+Add a scoring mechanism that increments when the character collects or interacts with objects in the game.
+
+Submit your Love2D project along with comments explaining the purpose and functionality of each part.

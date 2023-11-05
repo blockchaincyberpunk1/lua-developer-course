@@ -1,0 +1,14 @@
+Lua Variable and Data Type Practice
+
+Instructions:
+For this assignment, you will focus on variables and data types in Lua.
+
+Declare and initialize variables of various data types (number, string, boolean, table) in Lua.
+
+Perform operations (e.g., arithmetic, string concatenation) using these variables.
+
+Create a Lua program that demonstrates type conversion between different data types.
+
+Write a Lua function that receives input from the user and displays the data type of the input.
+
+Submit your Lua code and any relevant explanations or comments.

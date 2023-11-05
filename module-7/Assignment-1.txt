@@ -1,0 +1,16 @@
+Lua Community Engagement
+
+Instructions:
+In this assignment, you will actively engage with the Lua community through forums, meetups, or open-source Lua projects.
+
+Join a Lua-focused online community or forum (e.g., Lua mailing list, Lua subreddit, Lua Discord server).
+
+Participate in discussions or threads related to Lua programming. Share your insights, ask questions, or offer assistance to fellow community members.
+
+Attend a virtual Lua meetup or user group meeting, if available. Participate in discussions and network with other Lua enthusiasts.
+
+Identify an open-source Lua project that interests you. Contribute to the project by submitting a bug fix, a new feature, or documentation improvements. Follow the project's contribution guidelines.
+
+Document your community engagement experiences, including the forums or meetups you participated in and the details of your open-source contribution.
+
+Submit your documentation of community engagement, including links to forum discussions or meetup summaries, and evidence of your open-source contribution.

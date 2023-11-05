@@ -1,0 +1,14 @@
+Introduction to Lua Game Scripting
+
+Instructions:
+For this assignment, you will explore how Lua is used for scripting in popular game engines like Unity or Unreal Engine.
+
+Research and select one of the following game engines: Unity or Unreal Engine.
+
+Create a simple Lua script that interacts with the game engine you selected. For Unity, you can use the Unity MonoBehaviours, and for Unreal Engine, you can use UnrealScript or Blueprints, which have Lua scripting plugins available.
+
+Implement a basic game functionality using Lua, such as moving an object, changing its color, or handling user input.
+
+Document your experience with Lua scripting in your chosen game engine, including any challenges you encountered and the advantages of using Lua for game scripting.
+
+Submit your Lua script and a brief report describing your experience with Lua scripting in your chosen game engine.

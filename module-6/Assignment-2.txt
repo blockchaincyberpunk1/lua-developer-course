@@ -1,0 +1,16 @@
+Collaborative Git Workflow
+
+Instructions:
+In this assignment, you will practice collaborative Git workflows.
+
+Partner with a classmate or colleague to create a shared Git repository on a platform like GitHub, GitLab, or Bitbucket.
+
+Each team member should clone the shared repository to their local machine.
+
+Collaborate on a Lua project within the shared repository. Make changes to the code, create branches, and commit your contributions.
+
+Use Git's pull and push commands to ensure that both team members are up-to-date with the latest changes.
+
+Document the collaborative workflow, including how you communicated and coordinated your work.
+
+Submit the link to the shared Git repository and a brief report on your collaborative experience.

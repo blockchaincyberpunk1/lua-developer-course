@@ -1,0 +1,14 @@
+Reflection and Documentation
+
+Instructions:
+For this assignment, you will reflect on your experience developing both the command-line application and the desktop application prototype (if applicable).
+
+Write a reflection document that discusses your experiences, challenges, and lessons learned during the development of both applications.
+
+Describe any improvements or optimizations you made to your code, and explain the reasoning behind those changes.
+
+Reflect on the differences and similarities between developing command-line and graphical applications in Lua.
+
+Provide insights into the challenges and benefits of working on real-world Lua projects.
+
+Submit your reflection document, sharing your insights and experiences with the development process.

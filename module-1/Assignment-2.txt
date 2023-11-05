@@ -1,0 +1,12 @@
+Lua Language Basics
+
+Instructions:
+In this assignment, you will practice the fundamentals of Lua programming covered in Module 1.
+
+Write a Lua program that declares a variable, assigns it a value, and prints the value to the console.
+
+Create a Lua script that demonstrates the usage of different data types, such as numbers, strings, and booleans.
+
+Implement a Lua program that uses control structures (if statements, loops, etc.) to solve a simple problem of your choice.
+
+Submit your Lua scripts along with comments explaining the purpose and functionality of each.

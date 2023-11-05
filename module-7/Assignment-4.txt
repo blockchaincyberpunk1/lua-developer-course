@@ -1,0 +1,15 @@
+Lua Best Practices Research
+
+Instructions:
+In this assignment, you will research and document Lua programming best practices.
+
+Research Lua programming best practices through online resources, tutorials, and Lua community recommendations.
+
+Compile a list of at least five Lua best practices that cover aspects such as coding style, error handling, performance optimization, or security.
+
+Provide examples or code snippets illustrating each best practice. Explain why each practice is considered a best practice and how it benefits Lua programming.
+
+Include any relevant community or expert insights on each best practice.
+
+Submit your documentation of Lua programming best practices, including explanations and code examples.
+

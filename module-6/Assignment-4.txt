@@ -1,0 +1,17 @@
+Lua Testing and Test Automation
+
+Instructions:
+In this assignment, you will explore advanced testing concepts and test automation in Lua.
+
+Select a Lua project (or create a new one) that you want to enhance with automated testing.
+
+Develop an extensive set of test cases using Busted to thoroughly test various aspects of your Lua code. Include both unit tests and integration tests.
+
+Integrate test automation into your Lua project's development workflow. Use tools like continuous integration (CI) platforms to automate the execution of your tests.
+
+Ensure that your tests are automatically run whenever changes are pushed to your Git repository.
+
+Document the test automation setup and workflow, including any challenges and solutions you encountered.
+
+Submit your Lua code, the automated test suite, and the documentation of the test automation setup and workflow.
+

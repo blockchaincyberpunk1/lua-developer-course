@@ -1,0 +1,16 @@
+Continuous Learning Plan
+
+Instructions:
+For this assignment, you will create a plan for continuous learning and improvement in Lua programming.
+
+Set specific learning goals related to Lua programming. These goals could include mastering specific Lua libraries, improving your Lua debugging skills, or learning advanced Lua scripting techniques.
+
+Identify resources and learning materials that will help you achieve your learning goals. These resources can include books, online courses, tutorials, or mentorship opportunities.
+
+Create a timeline or schedule for achieving your learning goals. Break down your goals into smaller, manageable tasks and allocate time for regular practice and study.
+
+Document your commitment to staying informed about Lua developments, such as language updates and new libraries, through forums, documentation, or community engagement.
+
+Reflect on how your continuous learning plan aligns with your career or personal objectives in Lua programming.
+
+Submit your continuous learning plan for Lua programming, including your learning goals, selected resources, timeline, and a reflection on your commitment to staying informed and continuously improving.

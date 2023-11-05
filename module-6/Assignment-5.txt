@@ -1,0 +1,16 @@
+Testing Best Practices and Report
+
+Instructions:
+For this assignment, you will focus on testing best practices in Lua and write a report summarizing your findings.
+
+Research and gather information on best practices for testing in Lua. Explore topics such as test organization, test coverage, and common testing pitfalls.
+
+Write a report that includes:
+
+An overview of the importance of testing in software development.
+Key testing best practices specific to Lua and the Busted framework.
+Examples of well-structured Lua test suites and test cases.
+Recommendations for improving testing practices in Lua projects.
+Include real-world examples or case studies, if available, to illustrate the benefits of following testing best practices.
+
+Submit your report summarizing Lua testing best practices and any additional insights you've gained through your research.

@@ -1,0 +1,19 @@
+Introduction to Lua Testing with Busted
+
+Instructions:
+For this assignment, you will understand the importance of testing in Lua and explore testing frameworks like Busted.
+
+Choose a Lua project or create a simple Lua script that you want to test.
+
+Install the Busted testing framework if you haven't already.
+
+Write a set of test cases using Busted to test various aspects of your Lua code. Ensure you cover different scenarios, including edge cases.
+
+Run the Busted tests and observe the test results, identifying any failures or errors.
+
+Debug and fix any issues in your Lua code based on the test results.
+
+Document the testing process, including the purpose of each test case and any improvements you made to your Lua code.
+
+Submit your Lua code, the Busted test suite, and the documentation of the testing process.
+
